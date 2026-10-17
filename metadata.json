@@ -1,0 +1,6 @@
+{
+  "name": "AURA Editorial Minimal",
+  "description": "High-end luxury minimalist fashion e-commerce storefront featuring curated linen capsules, editorial lookbooks, smart fit predictor, and seamless shopping bag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
